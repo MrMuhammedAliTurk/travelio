@@ -1,0 +1,16 @@
+name: travelio
+description: Türkiye'deki gezi noktalarını keşfetmek ve kişisel gezi planı oluşturmak için Flutter uygulaması.
+publish_to: 'none'
+version: 1.1.0+2
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
